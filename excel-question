@@ -1,0 +1,64 @@
+List all models with their descriptions. Model code, model group, family description
+Show all dealers with the zones, area, location code , location name, product division, and parent group
+Get the total number of repair orders (RO) created in Jan'25
+Find the seat capacity for each model.
+"Show all customer verbatim entries for a specific RO number RO25A007880
+
+
+Show Demanded Verbatim--Show Word Cloud "
+ List distinct parts used in a particular repair order RO25D000730
+Give count of distinct parts used in particular repair order RO25D000730
+Display distinct labour code and labour descriptions for the RO: RO25D000730
+Display count of distinct labour descriptions for the RO: RO25D000730
+Show the total amount billed for each RO RO25D000730
+Give me the service advisor and the technician name
+Get all distinct details related to Model Family Desc and Dealer details about this RO
+Give all distinct Parts category group for the given RO
+what are distinct labour type names used in this RO
+Is the vehicle Govt vehicle?
+Is it a Taxi
+what was total part consumption for this RO
+List all models that use diesel as fuel.
+Find the top 5 models with the highest seat capacity.
+List all dealers in a North  zone along with their Locations
+Show the total labour amount and parts amount for each RO from 01-Jan-2025 to 31-Jan-2025
+Get all ROs closed within last 180 days
+List all parts with a discount greater than 10% for the RPs created in Jan'25
+Find all ROs where the vehicle is a government vehicle.
+Show the number of ROs per dealer for the month of Jan'25
+Who was the topmost dealer for Jan'25
+List all models and their associated variants and fuel types.
+Find all customer verbatim entries grouped by verbatim group.
+Get the total quantity of each part used across all ROs.
+how many RO's cancelled in 2022
+how many RO for vehcles toed were cancelled
+For how many ROs Vehicles were toed
+For how many ROs Vehicles were toed include duplicate Ros
+how many ROS were created in 2022 and cancelled in 2022
+how many ROS were created in 2022 and closed in 2022
+what is odometer reading for the vehicle with vin as MB7A8CLLFMJC30464
+what is the RO bill date for the same?
+how many Ros where created for vehicles with parent group SVN01 where created in 2023
+how many repair orders with parent group SVN01 where created in 2023
+what is the promised date for RO RO24B001437
+what is the model for RO RO24B001437
+what is the revisit indicator for RO RO24B001437
+how many ROs took more than 72 hours to be serviced
+WHAT IS THE BASIC LABOUR AMOUNT AND TOTAL LABOUR AMOUNT FOR ro RO24B001437
+Retrieve all active variants (ACTV_IND = 'Y') for each FUEL_TYPE and count how many unique model codes exist per fuel type. Sort in descending order of model count.
+Get the top 5 TRANSMISSION types used across all models, and for each, list the number of distinct variant codes and the average SEAT_CAPCTY.
+List all SEGMNT_CD values where the average SEAT_CAPCTY is greater than 5. For each segment, also return the STRING_AGG of MODL_DESC values associated with it.
+Identify which PRODCT_DIVSN has the most distinct MODL_GROP_CD values. Return the division name, count of distinct model group codes, and the top 3 most frequent FUEL_TYPEs in that division.
+For each MODL_GROP_DESC, calculate the number of active (ACTV_IND = 'Y') and inactive models. Return only those groups where more than 50% of entries are inactive.
+Show the BATCH codes where both ELECTRIC and DIESEL fuel types exist. For each such BATCH, return the total number of model entries and count of each FUEL_TYPE.
+Identify all TRIM_LEVLs associated with exactly one unique SEAT_CAPCTY. Return the TRIM_LEVL, SEAT_CAPCTY, and the number of distinct variant codes for each.
+"Group all models by EMISSION standard and return:
+number of models in each
+
+number of distinct transmission types
+
+the most common DRIV type per EMISSION"
+For each VARNT_DESC starting with "ZX", list how many models share the same MODL_GROP_CD and the average MODL_GROP_ORDR_BY for those groups.
+Gvie all variant descriptions for family description "New THAR Diesel MT"
+Give the total PARTS amount billed for RO RO25D000730 for part category as Spares
+give the customer verbatim for the ROs created in Jan'25
