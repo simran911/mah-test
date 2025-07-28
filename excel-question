@@ -62,3 +62,92 @@ For each VARNT_DESC starting with "ZX", list how many models share the same MODL
 Gvie all variant descriptions for family description "New THAR Diesel MT"
 Give the total PARTS amount billed for RO RO25D000730 for part category as Spares
 give the customer verbatim for the ROs created in Jan'25
+
+
+Use case based questions:-
+
+Test Case
+"Provide the list of Top 10 consumed OEM part under  Repair  from 01-Jan-2024 to 31-Jan-2024  
+===========================
+
+Provide the list of Top 10 consumed OEM part under repair from 01-Jan-2024 to 31-Jan-2024 
+===========================
+
+Provide the list of Top 10 consumed OEM part under Paid SERvice from 3rd Jan 2024 to 4th Jan 2024 "
+Provide the list of Top 10 consumed OEM part under  Charging  from 01-Jan-2024 to 31-Jan-2024
+Provide the list of Top 10 consumed OEM part under  En-Route  from 01-Jan-2024 to 31-dec-2024
+Provide the list of Top 10 consumed OEM part under "Pre-Sale/PDI"  from 01-Jan-2024 to 31-dec-2024
+Provide the list of Top 10 consumed OEM part under Accessories"  from 01-Jan-2024 to 31-dec-2024
+Provide the list of Top 10 consumed OEM part under "Bodyshop"  from 01-Jan-2024 to 31-dec-2024
+Provide the list of Top 10 consumed OEM part under "Paid Service"  from 01-Jan-2024 to 31-dec-2024
+Provide the list of Top 10 consumed OEM part under "Free Service"  from 01-Jan-2024 to 31-dec-2024
+"Provide the list of Top 10 consumed Local part under  Repair  from 01-Jan-2024 to 31-dec-2024 order by quantity
+==========================
+
+Provide the list of Top 10 consumed Local part under  Repair  from 01-Jan-2024 to 31-Mar-2024 order by value"
+Provide the list of Top 10 consumed Local part under  Charging  from 01-Jan-2024 to 31-dec-2024
+Provide the list of Top 10 consumed Local part under  En-Route  from 01-Jan-2024 to 31-dec-2024
+Provide the list of Top 10 consumed Local part under "Pre-Sale/PDI"  from 01-Jan-2024 to 31-dec-2024
+Provide the list of Top 10 consumed Local part under Accessories"  from 01-Jan-2024 to 31-dec-2024
+Provide the list of Top 10 consumed Local part under "Bodyshop"  from 01-Jan-2024 to 31-dec-2024
+Provide the list of Top 10 consumed Local part under "Paid Service"  from 01-Jan-2024 to 31-dec-2024
+Provide the list of Top 10 consumed Local part under "Free Service"  from 01-Jan-2024 to 31-dec-2024
+List the Top 10 Dealers with highest OEM part consumption under    Repair from 01-Jan-2024 to 31-dec-2024
+List the Top 10 Dealers with highest OEM part consumption under    Pre-Sale/PDI from 01-Jan-2024 to 31-dec-2024
+List the Top 10 Dealers with highest OEM part consumption under    Bodyshop from 01-Jan-2024 to 31-dec-2024
+List the Top 10 Dealers with highest OEM part consumption under    Accessories from 01-Jan-2024 to 31-dec-2024
+List the Top 10 Dealers with highest Local part consumption under    Repair from 01-Jan-2024 to 31-dec-2024
+List the Top 10 Dealers with highest Local part consumption under    Pre-Sale/PDI from 01-Jan-2024 to 31-dec-2024
+List the Top 10 Dealers with highest Local part consumption under    Bodyshop from 01-Jan-2024 to 31-dec-2024
+List the Top 10 Dealers with highest Local part consumption under    Accessories from 01-Jan-2024 to 31-dec-2024
+List the Top 5 Dealer Zone & Area Office (Dealer Area Office) with highest  OEM part consumption under    Repair from 01-Jan-2024 to 31-dec-2024
+List the Top 5 Dealer Zone & Area Office (Dealer Area Office) with highest  OEM part consumption under    Pre-Sale/PDI from 01-Jan-2024 to 31-dec-2024
+List the Top 5 Dealer Zone & Area Office (Dealer Area Office) with highest  OEM part consumption under    Bodyshop from 01-Jan-2024 to 31-dec-2024
+List the Top 5 Dealer Zone & Area Office (Dealer Area Office) with highest  OEM part consumption under    Accessories from 01-Jan-2024 to 31-dec-2024
+List the Top 5 Dealer Zone & Area Office (Dealer Area Office) with highest  Local part consumption under    Repair from 01-Jan-2024 to 31-dec-2024
+List the Top 5 Dealer Zone & Area Office (Dealer Area Office) with highest  Local part consumption under    PreSale/PDI from 01-Jan-2024 to 31-dec-2024
+List the Top 5 Dealer Zone & Area Office (Dealer Area Office) with highest  Local part consumption under    Bodyshop from 01-Jan-2024 to 31-dec-2024
+List the Top 5 Dealer Zone & Area Office (Dealer Area Office) with highest  Local part consumption under    Accessories from 01-Jan-2024 to 31-dec-2024
+List the Top 10 (MODEL_GROP) & (FAMLY_DESC) with highest OEM part consumption under  Repair from 01-Jan-2024 to 31-dec-2024
+List the Top 10 (MODEL_GROP) & (FAMLY_DESC) with highest  OEM part consumption under    Pre-Sale/PDI from 01-Jan-2024 to 31-dec-2024
+List the Top 10 (MODEL_GROP) & (FAMLY_DESC) with highest  OEM part consumption under    Bodyshop from 01-Jan-2024 to 31-dec-2024
+List the Top 10 (MODEL_GROP) & (FAMLY_DESC)with highest  OEM part consumption under    Accessories from 01-Jan-2024 to 31-dec-2024
+List the Top 10 (MODEL_GROP) & (FAMLY_DESC) with highest  Local part consumption under    Repair from 01-Jan-2024 to 31-dec-2024
+List the Top 10 (MODEL_GROP) & (FAMLY_DESC)  with highest  Local part consumption under    PreSale/PDI from 01-Jan-2024 to 31-dec-2024
+List the Top 10 (MODEL_GROP) & (FAMLY_DESC)  with highest  Local part consumption under    Bodyshop from 01-Jan-2024 to 31-dec-2024
+List the Top 10 (MODEL_GROP) & (FAMLY_DESC)  with highest  Local part consumption under    Accessories from 01-Jan-2024 to 31-dec-2024
+"Top 10 OEM Part which has been replaced (Consumed) in XX (MODEL_GROP) & (FAMLY_DESC   from 01-Jan-2024 to 31-dec-2024
+=========================
+Top 10 OEM Part which has been replaced (Consumed) in BOLMM7874866028 model code on 25th MAy 2024 order by quantity
+
+Top 10 OEM Part which has been replaced (Consumed) in X300 Model Group Code from 01-Jan-2024 to 31-dec-2024  order by quantity
+
+
+
+"
+Top 10 OEM Part which has been replaced (Consumed) in XX (MODEL_GROP) & (FAMLY_DESC   from 01-Jan-2024 to 31-dec-2024
+Top 10 OEM Part which has been replaced (Consumed) in XX (MODEL_GROP) & (FAMLY_DESC   from 01-Jan-2024 to 31-dec-2024
+Top 10 OEM Part which has been replaced (Consumed) in XX (MODEL_GROP) & (FAMLY_DESC   from 01-Jan-2024 to 31-dec-2024
+Top 10 OEM Part which has been replaced (Consumed) in XX (MODEL_GROP) & (FAMLY_DESC   from 01-Jan-2024 to 31-dec-2024
+Top 10 OEM Part which has been replaced (Consumed) in XX (MODEL_GROP) & (FAMLY_DESC   from 01-Jan-2024 to 31-dec-2024
+Top 10 OEM Part which has been replaced (Consumed) in XX (MODEL_GROP) & (FAMLY_DESC   from 01-Jan-2024 to 31-dec-2024
+Top 10 OEM Part which has been replaced (Consumed) in XX (MODEL_GROP) & (FAMLY_DESC   from 01-Jan-2024 to 31-dec-2024
+Top 10 OEM Part which has been replaced (Consumed) in XX (MODEL_GROP) & (FAMLY_DESC   from 01-Jan-2024 to 31-dec-2024
+Top 10 OEM Part which has been replaced (Consumed) in XX (MODEL_GROP) & (FAMLY_DESC   from 01-Jan-2024 to 31-dec-2024
+Top 10 OEM Part which has been replaced (Consumed) in XX (MODEL_GROP) & (FAMLY_DESC   from 01-Jan-2024 to 31-dec-2024
+Top 10 OEM Part which has been replaced (Consumed) in XX (MODEL_GROP) & (FAMLY_DESC   from 01-Jan-2024 to 31-dec-2024
+Top 10 OEM Part which has been replaced (Consumed) in XX (MODEL_GROP) & (FAMLY_DESC   from 01-Jan-2024 to 31-dec-2024
+Top 10 OEM Part which has been replaced (Consumed) in XX (MODEL_GROP) & (FAMLY_DESC   from 01-Jan-2024 to 31-dec-2024
+Top 10 OEM Part which has been replaced (Consumed) in XX (MODEL_GROP) & (FAMLY_DESC   from 01-Jan-2024 to 31-dec-2024
+Top 10 OEM Part which has been replaced (Consumed) in XX (MODEL_GROP) & (FAMLY_DESC   from 01-Jan-2024 to 31-dec-2024
+Top 10 OEM Part which has been replaced (Consumed) in XX (MODEL_GROP) & (FAMLY_DESC   from 01-Jan-2024 to 31-dec-2024
+Top 10 OEM Part which has been replaced (Consumed) in XX (MODEL_GROP) & (FAMLY_DESC   from 01-Jan-2024 to 31-dec-2024
+Top 10 OEM Part which has been replaced (Consumed) in XX (MODEL_GROP) & (FAMLY_DESC   from 01-Jan-2024 to 31-dec-2024
+Top 10 OEM Part which has been replaced (Consumed) in XX (MODEL_GROP) & (FAMLY_DESC   from 01-Jan-2024 to 31-dec-2024
+Top 10 OEM Part which has been replaced (Consumed) in XX (MODEL_GROP) & (FAMLY_DESC   from 01-Jan-2024 to 31-dec-2024
+Top 10 OEM Part which has been replaced (Consumed) in XX (MODEL_GROP) & (FAMLY_DESC   from 01-Jan-2024 to 31-dec-2024
+Top 10 OEM Part which has been replaced (Consumed) in XX (MODEL_GROP) & (FAMLY_DESC   from 01-Jan-2024 to 31-dec-2024
+Top 10 OEM Part which has been replaced (Consumed) in XX (MODEL_GROP) & (FAMLY_DESC   from 01-Jan-2024 to 31-dec-2024
+
+
+
